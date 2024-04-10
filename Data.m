@@ -77,4 +77,6 @@ BattNs=100;
 %并联个数
 BattNp=40;
 %初始SOC值，%
-
+SOCIni=95;
+%最低许用SOC
+SOCMin=5;
